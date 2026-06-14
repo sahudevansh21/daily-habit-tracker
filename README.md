@@ -1,5 +1,7 @@
 # Daily Habit Tracker
 
+**Live Demo:** [https://daily-habit-tracker-eztj90b1b-sahudevansh21-4649s-projects.vercel.app](https://daily-habit-tracker-eztj90b1b-sahudevansh21-4649s-projects.vercel.app)
+
 ## Project Overview
 
 **Problem:** Building new positive habits or breaking old ones can be challenging due to a lack of structure, consistent reminders, and easy progress tracking. Many individuals abandon self-improvement goals without a simple, private tool to monitor their consistency and celebrate small wins.
